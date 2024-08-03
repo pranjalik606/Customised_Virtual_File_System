@@ -7,7 +7,7 @@ This system allows users to perform system-level operations of the Linux OS on v
 3)	Platform Required: Windows Platform or Linux Distribution
 
 Key Features:
-•	Custom Shell with Linux Commands: The project includes a customized shell that supports necessary Linux file system commands, making it intuitive for users familiar with Linux.
+• Custom Shell with Linux Commands: The project includes a customized shell that supports necessary Linux file system commands, making it intuitive for users familiar with Linux.
 • System Call Implementations: Implementing crucial system calls ensures that the project provides functionality similar to the native Linux environment.
 
 • File System Data Structures:
