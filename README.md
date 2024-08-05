@@ -1,3 +1,4 @@
+Project Description:
 1. This project provides all the comprehensive functionalities that mirrors the Linux file system.
 2. It provides necessary commands, System calls implimentations of file system through customised shell.
 3. In this project we impliment all necessary data structures of file system like Incore Inode Table, File Table, UAREA, User File Descriptor table.
