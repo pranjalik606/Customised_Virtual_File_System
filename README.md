@@ -4,11 +4,6 @@
 4. Using this project we can use every system level functionality of Linux operating system on any other operating system platfrom.
 5. We provide our own customides shell to interact with the customides database management system. 
 
-
-1)	Technology Used: System Programming using C.
-2)	User Interface Used: Command Line Interface.
-3)	Platform Required: Windows Platform or Linux Distribution
-
 Key Features:
 1) Custom Shell with Linux Commands: The project includes a customized shell that supports necessary Linux file system commands, making it intuitive for users familiar with Linux.
 2) System Call Implementations: Implementing crucial system calls ensures that the project provides functionality similar to the native Linux environment.
@@ -20,6 +15,10 @@ File System Data Structures:
 4) UFDT (User File Descriptor Table): Handles file descriptors allocated to user processes.
       
 Cross-Platform Compatibility: This project enables Linux-like system-level functionalities on other operating systems, making it a versatile tool for developers and users alike.
+
+1)	Technology Used: System Programming using C.
+2)	User Interface Used: Command Line Interface.
+3)	Platform Required: Windows Platform or Linux Distribution
 
 
 
