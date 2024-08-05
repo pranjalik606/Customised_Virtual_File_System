@@ -11,10 +11,10 @@ Key Features:
 2) System Call Implementations: Implementing crucial system calls ensures that the project provides functionality similar to the native Linux environment.
 
 • File System Data Structures:
-      1)	Icore Inode Table: Efficiently manages inodes currently in memory.
-      2)	File Table: Keeps track of open files and their attributes.
-      3)	UAREA (User Area): Manages user-specific data necessary for file operations.
-      4)	UFDT (User File Descriptor Table): Handles file descriptors allocated to user processes.
+      1) Icore Inode Table: Efficiently manages inodes currently in memory.
+      2) File Table: Keeps track of open files and their attributes.
+      3) UAREA (User Area): Manages user-specific data necessary for file operations.
+      4) UFDT (User File Descriptor Table): Handles file descriptors allocated to user processes.
       
 • Cross-Platform Compatibility: This project enables Linux-like system-level functionalities on other operating systems, making it a versatile tool for developers and users alike.
 
